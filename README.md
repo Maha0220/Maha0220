@@ -1,4 +1,4 @@
-## Tech Stack
+## JinSoo Cho
 Back-end
 - Node.js · Express · NestJS · TypeScript · MySQL
 
