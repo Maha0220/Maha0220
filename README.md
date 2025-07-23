@@ -1,6 +1,7 @@
 ## Tech Stack
 Back-end
 - Node.js · Express · NestJS · TypeScript · MySQL
+
 Infra
 - AWS · Linux · Nginx
 
